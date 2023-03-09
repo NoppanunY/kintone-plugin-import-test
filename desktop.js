@@ -1,4 +1,4 @@
-alert("Alert from github")
+alert("Ouet alert from github")
 
 function clicked(){
     alert("Function from github")
@@ -6,7 +6,7 @@ function clicked(){
 
 (function(){
     kintone.events.on('app.record.index.show', function(event) {
-        alert("Alert from github")
+        alert("Index show alert from github")
     });
 })()
  
