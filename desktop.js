@@ -339,5 +339,5 @@
     return event;
   });  
 
-
-})(jQuery, kintone.$PLUGIN_ID);
+})(jQuery, "ddbljaghnlhgkeijnpnoiokeojffeojn");
+// })(jQuery, kintone.$PLUGIN_ID);
