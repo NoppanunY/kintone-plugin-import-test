@@ -1,7 +1,6 @@
 (function($, PLUGIN_ID) {
   
-  console.log(document.currentScript.getAttribute('one'))
-  console.log(document.currentScript.getAttribute('two'))
+  console.log($(this))
   
   const AppID = kintone.app.getId();
 
