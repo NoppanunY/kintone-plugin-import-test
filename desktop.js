@@ -1,7 +1,7 @@
-console.log(window.location.href)
-
 (function($, PLUGIN_ID) {
-
+  
+  console.log(window.location.href)
+  
   const AppID = kintone.app.getId();
 
   var config = {}
