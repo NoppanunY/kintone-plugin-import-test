@@ -1,3 +1,5 @@
+console.log(window.location.href)
+
 (function($, PLUGIN_ID) {
 
   const AppID = kintone.app.getId();
