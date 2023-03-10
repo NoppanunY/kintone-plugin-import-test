@@ -1,4 +1,4 @@
-(function() {
+(function($, PLUGIN_ID) {
 
   const AppID = kintone.app.getId();
 
@@ -340,4 +340,4 @@
   });  
 
 
-})();
+})(jQuery, kintone.$PLUGIN_ID);
